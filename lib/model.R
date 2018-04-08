@@ -11,15 +11,14 @@ record.ratio <- c(records[1:50]/sum(records[1:50]),
 
 df2$record.ratio <- record.ratio
 
-fit <- lm(GDP~record.ratio,data = df2)
-summary(fit)
+unemploydf <- read.csv("unemploy.csv")
+unemploy <- unemploydf[order(unemploydf$abb),3]
+names(unemploy) <- state.abb[order(state.abb)]
+unemploy <- unemploy[state.abb]
 
-plot(ss_df$record.ratio,ss_df$gdp)
-
-ggplot(df2,aes(x = GDP,y = record.ratio,shape = as.factor(season)))+
-  geom_point()
+library(ggplot2)
 
 
 ggplot(df2[1:50,])+
   geom_point(aes(x = GDP,y = record.ratio)) +
-  geom_text(aes(x = GDP,y = record.ratio+0.005,label = abb))
+  geom_text(aes(x = GDP,y = record.ratio+0.0025,label = abb))
