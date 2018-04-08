@@ -1,201 +1,201 @@
 "","states","season","GDP"
-"1","Alabama","1",355
-"2","Alaska","1",946
-"3","Arizona","1",609
-"4","Arkansas","1",56
-"5","California","1",510
-"6","Colorado","1",672
-"7","Connecticut","1",478
-"8","Delaware","1",1117
-"9","Florida","1",1288
-"10","Georgia","1",959
-"11","Hawaii","1",1236
-"12","Idaho","1",1114
-"13","Illinois","1",1195
-"14","Indiana","1",700
-"15","Iowa","1",283
-"16","Kansas","1",169
-"17","Kentucky","1",328
-"18","Louisiana","1",431
-"19","Maine","1",1019
-"20","Maryland","1",751
-"21","Massachusetts","1",925
-"22","Michigan","1",919
-"23","Minnesota","1",694
-"24","Mississippi","1",1387
-"25","Missouri","1",585
-"26","Montana","1",879
-"27","Nebraska","1",17
-"28","Nevada","1",153
-"29","New Hampshire","1",1177
-"30","New Jersey","1",1007
-"31","New Mexico","1",1321
-"32","New York","1",146
-"33","North Carolina","1",939
-"34","North Dakota","1",979
-"35","Ohio","1",1054
-"36","Oklahoma","1",319
-"37","Oregon","1",446
-"38","Pennsylvania","1",1151
-"39","Rhode Island","1",1004
-"40","South Carolina","1",371
-"41","South Dakota","1",874
-"42","Tennessee","1",669
-"43","Texas","1",223
-"44","Utah","1",186
-"45","Vermont","1",612
-"46","Virginia","1",914
-"47","Washington","1",897
-"48","West Virginia","1",1161
-"49","Wisconsin","1",622
-"50","Wyoming","1",766
-"51","Alabama","2",375
-"52","Alaska","2",942
-"53","Arizona","2",608
-"54","Arkansas","2",66
-"55","California","2",518
-"56","Colorado","2",672
-"57","Connecticut","2",485
-"58","Delaware","2",1110
-"59","Florida","2",1279
-"60","Georgia","2",961
-"61","Hawaii","2",1234
-"62","Idaho","2",1107
-"63","Illinois","2",1187
-"64","Indiana","2",700
-"65","Iowa","2",290
-"66","Kansas","2",171
-"67","Kentucky","2",336
-"68","Louisiana","2",444
-"69","Maine","2",1016
-"70","Maryland","2",748
-"71","Massachusetts","2",924
-"72","Michigan","2",913
-"73","Minnesota","2",696
-"74","Mississippi","2",1379
-"75","Missouri","2",576
-"76","Montana","2",876
-"77","Nebraska","2",15
-"78","Nevada","2",164
-"79","New Hampshire","2",1181
-"80","New Jersey","2",998
-"81","New Mexico","2",1314
-"82","New York","2",159
-"83","North Carolina","2",932
-"84","North Dakota","2",966
-"85","Ohio","2",1051
-"86","Oklahoma","2",335
-"87","Oregon","2",450
-"88","Pennsylvania","2",1145
-"89","Rhode Island","2",1001
-"90","South Carolina","2",380
-"91","South Dakota","2",865
-"92","Tennessee","2",661
-"93","Texas","2",235
-"94","Utah","2",195
-"95","Vermont","2",610
-"96","Virginia","2",911
-"97","Washington","2",898
-"98","West Virginia","2",1167
-"99","Wisconsin","2",622
-"100","Wyoming","2",780
-"101","Alabama","3",375
-"102","Alaska","3",952
-"103","Arizona","3",614
-"104","Arkansas","3",72
-"105","California","3",524
-"106","Colorado","3",683
-"107","Connecticut","3",481
-"108","Delaware","3",1121
-"109","Florida","3",1294
-"110","Georgia","3",972
-"111","Hawaii","3",1242
-"112","Idaho","3",1117
-"113","Illinois","3",1199
-"114","Indiana","3",708
-"115","Iowa","3",291
-"116","Kansas","3",171
-"117","Kentucky","3",344
-"118","Louisiana","3",443
-"119","Maine","3",1031
-"120","Maryland","3",758
-"121","Massachusetts","3",938
-"122","Michigan","3",924
-"123","Minnesota","3",703
-"124","Mississippi","3",1389
-"125","Missouri","3",583
-"126","Montana","3",882
-"127","Nebraska","3",17
-"128","Nevada","3",162
-"129","New Hampshire","3",1190
-"130","New Jersey","3",1012
-"131","New Mexico","3",1326
-"132","New York","3",155
-"133","North Carolina","3",946
-"134","North Dakota","3",988
-"135","Ohio","3",1064
-"136","Oklahoma","3",347
-"137","Oregon","3",450
-"138","Pennsylvania","3",1158
-"139","Rhode Island","3",1016
-"140","South Carolina","3",383
-"141","South Dakota","3",865
-"142","Tennessee","3",672
-"143","Texas","3",244
-"144","Utah","3",205
-"145","Vermont","3",618
-"146","Virginia","3",916
-"147","Washington","3",908
-"148","West Virginia","3",1181
-"149","Wisconsin","3",627
-"150","Wyoming","3",795
-"151","Alabama","4",383
-"152","Alaska","4",955
-"153","Arizona","4",618
-"154","Arkansas","4",75
-"155","California","4",526
-"156","Colorado","4",688
-"157","Connecticut","4",486
-"158","Delaware","4",1128
-"159","Florida","4",1302
-"160","Georgia","4",970
-"161","Hawaii","4",1247
-"162","Idaho","4",1123
-"163","Illinois","4",1204
-"164","Indiana","4",713
-"165","Iowa","4",294
-"166","Kansas","4",172
-"167","Kentucky","4",345
-"168","Louisiana","4",445
-"169","Maine","4",1035
-"170","Maryland","4",762
-"171","Massachusetts","4",941
-"172","Michigan","4",931
-"173","Minnesota","4",702
-"174","Mississippi","4",1400
-"175","Missouri","4",590
-"176","Montana","4",888
-"177","Nebraska","4",18
-"178","Nevada","4",164
-"179","New Hampshire","4",1197
-"180","New Jersey","4",1016
-"181","New Mexico","4",1337
-"182","New York","4",161
-"183","North Carolina","4",946
-"184","North Dakota","4",993
-"185","Ohio","4",1068
-"186","Oklahoma","4",349
-"187","Oregon","4",454
-"188","Pennsylvania","4",1166
-"189","Rhode Island","4",1021
-"190","South Carolina","4",386
-"191","South Dakota","4",871
-"192","Tennessee","4",677
-"193","Texas","4",254
-"194","Utah","4",204
-"195","Vermont","4",621
-"196","Virginia","4",920
-"197","Washington","4",917
-"198","West Virginia","4",1183
-"199","Wisconsin","4",635
-"200","Wyoming","4",802
+"1","Alabama","1",182995
+"2","Alaska","1",46173
+"3","Arizona","1",273162
+"4","Arkansas","1",109902
+"5","California","1",2352334
+"6","Colorado","1",294930
+"7","Connecticut","1",226473
+"8","Delaware","1",61888
+"9","Florida","1",823750
+"10","Georgia","1",470804
+"11","Hawaii","1",74267
+"12","Idaho","1",61598
+"13","Illinois","1",700238
+"14","Indiana","1",309144
+"15","Iowa","1",163341
+"16","Kansas","1",134877
+"17","Kentucky","1",174678
+"18","Louisiana","1",207101
+"19","Maine","1",51931
+"20","Maryland","1",341485
+"21","Massachusetts","1",446535
+"22","Michigan","1",439942
+"23","Minnesota","1",305708
+"24","Mississippi","1",96215
+"25","Missouri","1",262855
+"26","Montana","1",41899
+"27","Nebraska","1",103204
+"28","Nevada","1",129159
+"29","New Hampshire","1",67898
+"30","New Jersey","1",507465
+"31","New Mexico","1",86870
+"32","New York","1",1282016
+"33","North Carolina","1",457302
+"34","North Dakota","1",48324
+"35","Ohio","1",557829
+"36","Oklahoma","1",172081
+"37","Oregon","1",211383
+"38","Pennsylvania","1",652340
+"39","Rhode Island","1",50485
+"40","South Carolina","1",186030
+"41","South Dakota","1",41355
+"42","Tennessee","1",294376
+"43","Texas","1",1481402
+"44","Utah","1",139197
+"45","Vermont","1",27457
+"46","Virginia","1",437105
+"47","Washington","1",429228
+"48","West Virginia","1",66511
+"49","Wisconsin","1",277725
+"50","Wyoming","1",34874
+"51","Alabama","2",184853
+"52","Alaska","2",46076
+"53","Arizona","2",274113
+"54","Arkansas","2",110976
+"55","California","2",2355824
+"56","Colorado","2",296889
+"57","Connecticut","2",223945
+"58","Delaware","2",62274
+"59","Florida","2",827793
+"60","Georgia","2",472123
+"61","Hawaii","2",74824
+"62","Idaho","2",61730
+"63","Illinois","2",696884
+"64","Indiana","2",308486
+"65","Iowa","2",162668
+"66","Kansas","2",132909
+"67","Kentucky","2",174162
+"68","Louisiana","2",208135
+"69","Maine","2",52235
+"70","Maryland","2",339273
+"71","Massachusetts","2",451284
+"72","Michigan","2",439870
+"73","Minnesota","2",306248
+"74","Mississippi","2",96493
+"75","Missouri","2",261469
+"76","Montana","2",41590
+"77","Nebraska","2",102032
+"78","Nevada","2",129316
+"79","New Hampshire","2",68778
+"80","New Jersey","2",504783
+"81","New Mexico","2",87135
+"82","New York","2",1289379
+"83","North Carolina","2",456773
+"84","North Dakota","2",47871
+"85","Ohio","2",559677
+"86","Oklahoma","2",174146
+"87","Oregon","2",211059
+"88","Pennsylvania","2",652757
+"89","Rhode Island","2",50588
+"90","South Carolina","2",186716
+"91","South Dakota","2",40729
+"92","Tennessee","2",293566
+"93","Texas","2",1497936
+"94","Utah","2",139648
+"95","Vermont","2",27519
+"96","Virginia","2",438996
+"97","Washington","2",432106
+"98","West Virginia","2",67328
+"99","Wisconsin","2",278395
+"100","Wyoming","2",35415
+"101","Alabama","3",185979
+"102","Alaska","3",46617
+"103","Arizona","3",276201
+"104","Arkansas","3",111930
+"105","California","3",2368261
+"106","Colorado","3",299660
+"107","Connecticut","3",224698
+"108","Delaware","3",62336
+"109","Florida","3",835152
+"110","Georgia","3",475619
+"111","Hawaii","3",75107
+"112","Idaho","3",62148
+"113","Illinois","3",700723
+"114","Indiana","3",309777
+"115","Iowa","3",162402
+"116","Kansas","3",133409
+"117","Kentucky","3",175749
+"118","Louisiana","3",209765
+"119","Maine","3",52493
+"120","Maryland","3",341310
+"121","Massachusetts","3",453537
+"122","Michigan","3",445796
+"123","Minnesota","3",307175
+"124","Mississippi","3",97201
+"125","Missouri","3",263390
+"126","Montana","3",41657
+"127","Nebraska","3",102318
+"128","Nevada","3",130517
+"129","New Hampshire","3",69267
+"130","New Jersey","3",507613
+"131","New Mexico","3",88092
+"132","New York","3",1293227
+"133","North Carolina","3",459390
+"134","North Dakota","3",48840
+"135","Ohio","3",562417
+"136","Oklahoma","3",176472
+"137","Oregon","3",212590
+"138","Pennsylvania","3",656853
+"139","Rhode Island","3",50873
+"140","South Carolina","3",187804
+"141","South Dakota","3",40697
+"142","Tennessee","3",295718
+"143","Texas","3",1520525
+"144","Utah","3",140975
+"145","Vermont","3",27692
+"146","Virginia","3",440648
+"147","Washington","3",434970
+"148","West Virginia","3",68001
+"149","Wisconsin","3",280092
+"150","Wyoming","3",36071
+"151","Alabama","4",187235
+"152","Alaska","4",46835
+"153","Arizona","4",278168
+"154","Arkansas","4",112489
+"155","California","4",2388108
+"156","Colorado","4",302388
+"157","Connecticut","4",226850
+"158","Delaware","4",63209
+"159","Florida","4",841422
+"160","Georgia","4",479411
+"161","Hawaii","4",75347
+"162","Idaho","4",62574
+"163","Illinois","4",706780
+"164","Indiana","4",311876
+"165","Iowa","4",163294
+"166","Kansas","4",134116
+"167","Kentucky","4",176710
+"168","Louisiana","4",210333
+"169","Maine","4",52906
+"170","Maryland","4",343507
+"171","Massachusetts","4",457741
+"172","Michigan","4",449693
+"173","Minnesota","4",308968
+"174","Mississippi","4",97839
+"175","Missouri","4",265704
+"176","Montana","4",41867
+"177","Nebraska","4",102792
+"178","Nevada","4",131567
+"179","New Hampshire","4",70010
+"180","New Jersey","4",510991
+"181","New Mexico","4",88459
+"182","New York","4",1306068
+"183","North Carolina","4",462830
+"184","North Dakota","4",49052
+"185","Ohio","4",567812
+"186","Oklahoma","4",177674
+"187","Oregon","4",214593
+"188","Pennsylvania","4",662100
+"189","Rhode Island","4",51311
+"190","South Carolina","4",189166
+"191","South Dakota","4",40748
+"192","Tennessee","4",297879
+"193","Texas","4",1539212
+"194","Utah","4",142335
+"195","Vermont","4",27924
+"196","Virginia","4",443126
+"197","Washington","4",439575
+"198","West Virginia","4",68495
+"199","Wisconsin","4",282289
+"200","Wyoming","4",36290

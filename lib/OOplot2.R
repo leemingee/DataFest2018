@@ -39,7 +39,7 @@ p = ggplot() +
   theme_void() + 
   theme(legend.position="none", plot.margin=unit(c(0,0,0,0),"cm") ) + 
   coord_equal()+
-  labs(title = "Number of Facilities in Each Borough", size = 5)+
+  labs(title = "Total # of Posts by Each State", size = 5)+
   theme(plot.title = element_text(colour = "black", face = "bold", size = 20, vjust = 1, hjust = 0.5))
 
 
@@ -47,3 +47,6 @@ p = ggplot() +
 
 widg=ggiraph(ggobj = p, width_svg =7, height_svg =7)
 widg
+
+library(data.table)
+test <- fread("../data/Feb_2018_UnemploymentRate.csv")
