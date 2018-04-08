@@ -1,3 +1,6 @@
+library(ggiraph)
+
+
 library(packcircles)
 library(ggplot2)
 library(viridisLite)
@@ -11,11 +14,12 @@ library(readr)
 # Create data
 #data=data.frame(group=paste("Group_", sample(letters, 70, replace=T), sample(letters, 70, replace=T), sample(letters, 70, replace=T), sep="" ), value=sample(seq(1,70),70)) 
 
-all_salary_mean <- tapply(normTitleCategory_state_salary$mean.estimatedSalary,normTitleCategory_state_salary$normTitleCategory,mean)
+# all_salary_mean <- tapply(normTitleCategory_state_salary$mean.estimatedSalary,normTitleCategory_state_salary$normTitleCategory,mean)
+normTitleCategory_state_salary <- statedf
 
-normTitleCategory <- data.frame(Category = sort(unique(normTitleCategory_state_salary$normTitleCategory)),
-                                salary = all_salary_mean)
-                                
+normTitleCategory <- data.frame(Category = sort(unique(normTitleCategory_state_salary$state)),
+                                salary = normTitleCategory_state_salary$numpost)
+
 # normTitleCategory_state_salary$normTitleCategory[normTitleCategory_state_salary$normTitleCategory=='NA']
 
 
@@ -39,10 +43,8 @@ p = ggplot() +
   theme_void() + 
   theme(legend.position="none", plot.margin=unit(c(0,0,0,0),"cm") ) + 
   coord_equal()+
-  labs(title = "Number of Facilities in Each Borough", size = 5)+
+  labs(title = "Number of Clicks in each State, USA", size = 5)+
   theme(plot.title = element_text(colour = "black", face = "bold", size = 20, vjust = 1, hjust = 0.5))
-
-
 
 
 widg=ggiraph(ggobj = p, width_svg =7, height_svg =7)
