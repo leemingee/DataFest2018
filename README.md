@@ -1,3 +1,5 @@
+# We are the best!!!!
+
 # Welcome to Columbia Statistics Club (CSC) DataFest sponsored by American Statistical Association (ASA)
 
 ## Note: 
