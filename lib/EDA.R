@@ -7,6 +7,7 @@ library(DT)
 library(Hmisc)
 library(readr)
 library(plyr)
+library(plotly)
 # Model completeness, Presentation/visualization, Business insight, Best use of external data
 test <- read_csv("csc_df_s18/data/datafest2018NewApril6.csv", col_names = TRUE)
 names(test)
@@ -137,8 +138,19 @@ data_season_state <- dlply(test,.(season,stateProvince))
 season.state <- paste(test$season,test$stateProvince)
 count.season.state <- count(season.state)
 
-data_season_state <- data.frame(records = count.season.state$freq,
+data_season_state_tmp <- data.frame(records = count.season.state$freq,
                                 season = substr(count.season.state$x, 0, 1),
                                 state = substr(count.season.state$x, 3, 4))
 substr('1 AX',3, 4)
 table(test$season)
+
+data_season_state <- data_season_state_tmp[data_season_state_tmp$state!="DC",]
+
+write.csv(data_season_state,file = "data_season_state.csv")
+aes(state, records)
+
+data_season1 <- setorder(data_season_state[data_season_state$season =="1",],records)
+ggplot() +
+  geom_point(aes(state, records), data= data_season1)
+
+
