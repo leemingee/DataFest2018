@@ -1,11 +1,8 @@
-library(ggiraph)
-
-
 library(packcircles)
 library(ggplot2)
 library(viridisLite)
 library(viridis)
-library(ggiraph)
+
 
 library(readr)
 # normTitleCategory_state_salary <- na.omit(read_csv("./data/normTitleCategory_state_salary.csv"))
@@ -50,3 +47,6 @@ p = ggplot() +
 widg=ggiraph(ggobj = p, width_svg =7, height_svg =7)
 widg
 
+
+data <- read.csv("/Users/whs/Desktop/billboard_lyrics_1964-2015.csv")
+head(data, 200)
